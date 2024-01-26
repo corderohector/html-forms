@@ -1,0 +1,40 @@
+body {
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+div{
+  margin: 10px;
+}
+
+.name {
+  display: flex;
+  flex-direction: column;
+}
+
+.email {
+  display: flex;
+  flex-direction: column;
+}
+
+.message {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  justify-content: center;
+  text-align: center;
+}
+
+textarea {
+  height: 150px;
+}
